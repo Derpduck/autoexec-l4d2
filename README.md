@@ -5,6 +5,6 @@ I **DO NOT** recommend just copying this for yourself, look at what each part of
 
 There will be settings in there that not everyone will want, and my binds are for a left handed layout.
 
-See the templates folder with a blank template for an autoexec that contains the most essential commands.
+See the templates folder for a blank autoexec template that contains the most essential commands.
 
 Tabs are aligned in Notepad++

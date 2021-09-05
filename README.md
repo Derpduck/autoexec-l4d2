@@ -1,10 +1,6 @@
 # autoexec-l4d2
-My autoexec/config for L4D2
+My autoexec/config for L4D2 (and other Source engine games)
 
-I **DO NOT** recommend just copying this for yourself, look at what each part of it does and take what you need.
-
-There will be settings in there that not everyone will want, and my binds are for a left handed layout.
+I **DO NOT** recommend just copying this for yourself, my binds/settings will not be suitable for everyone.
 
 See the templates folder for a blank autoexec template that contains the most essential commands.
-
-Tabs are aligned in Notepad++

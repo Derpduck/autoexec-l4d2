@@ -1,0 +1,15 @@
+[overlay]
+version=1.2.4
+show=0
+x=@Variant(\0\0\0\x87>\xf3\xb3\x1c)
+y=@Variant(\0\0\0\x87>\xea\x88\x96)
+zoom=0.669921875
+states\1\opacity=1
+states\2\opacity=1
+states\3\opacity=1
+usershow=false
+mutedshow=false
+boxshow=false
+fpsshow=false
+avatarrect=false
+avataralign=132
